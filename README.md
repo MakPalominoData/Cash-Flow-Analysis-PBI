@@ -16,27 +16,28 @@ Proyecto_Flujo_Caja/
 ├── 03_PBI_Dashboard/
 └── img/
 ```
-📈 Análisis y Métricas Clave
+## 📈 Análisis y Métricas Clave
 Para este proyecto se implementaron métricas financieras de nivel negocio:
 
-Flujo de Caja Mensual: Comparativo visual entre Ingresos y Egresos.
+**Flujo de Caja Mensual: Comparativo visual entre Ingresos y Egresos.**
 
-Top 5 Proveedores: Análisis de las mayores salidas de capital por entidad.
+**Top 5 Proveedores: Análisis de las mayores salidas de capital por entidad.**
 
-Proyección de Liquidez: Uso de modelos analíticos (Forecasting).
+**Proyección de Liquidez: Uso de modelos analíticos (Forecasting).**
 
-Alertas de Déficit: Formato condicional inteligente (Verde/Rojo).
+**Alertas de Déficit: Formato condicional inteligente (Verde/Rojo).**
 
-📸 Evidencia Visual del Proyecto
 
-1. Dashboard Principal Interactivo
+## 📸 Evidencia Visual del Proyecto
+
+### 1. Dashboard Principal Interactivo
 
 ![Dashboard Principal](img/dashboard_principal.png)
 
-2. Gestión de Datos en MySQL
+### 2. Gestión de Datos en MySQL
 
 ![Captura SQL](img/captura_sql.png)
 
-3. Análisis de Tendencia y Proyección (Forecasting)
+### 3. Análisis de Tendencia y Proyección (Forecasting)
 
 ![Captura Proyección](img/captura_proyeccion.png)
