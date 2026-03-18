@@ -30,10 +30,13 @@ Alertas de Déficit: Formato condicional inteligente (Verde/Rojo).
 📸 Evidencia Visual del Proyecto
 
 1. Dashboard Principal Interactivo
+
 ![Dashboard Principal](img/dashboard_principal.png)
 
 2. Gestión de Datos en MySQL
+
 ![Captura SQL](img/captura_sql.png)
 
 3. Análisis de Tendencia y Proyección (Forecasting)
+
 ![Captura Proyección](img/captura_proyeccion.png)
